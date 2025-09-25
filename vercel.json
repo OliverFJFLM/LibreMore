@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",
+  "rootDirectory": "frontend",
+  "buildCommand": "npm run vercel-build",
+  "installCommand": "npm ci || npm i",
+  "outputDirectory": ".next"
+}
